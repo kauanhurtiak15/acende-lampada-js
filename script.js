@@ -1,9 +1,9 @@
-function acender(){
+function Acender(){
     document.getElementById("lampada").src ="on.png"
-    console.log("On")
+    console.log("on")
 }
 
-function apagar(){
+function Apagar(){
     document.getElementById("lampada").src ="off.png"
     console.log("off")
 }
